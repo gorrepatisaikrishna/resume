@@ -3,6 +3,25 @@
 		"name":"indira",
 		"image":"download.png",
 		"phone":"7660843867",
-		"mail":"gorrepati@gmail.com"
-	}
+		"email":"gorrepati@gmail.com"
+	},
+	"education":[
+		{
+			"course":"B.Tech(CSE)",
+			"college":"MIC college of Tecnology",
+			"percentage":"65%"
+		},
+	
+	     {  "course":"INTERMEDIATE",
+			"college":"nagarjuna junior  college ",
+			"percentage":"69.6%"
+		},
+	
+        {   "course":"SSC",
+   			"college":"vivekanadha vidhayalayam",
+			"percentage":"90%"
+		}
+	
+]
 }
+	
