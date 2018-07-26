@@ -1,4 +1,50 @@
 
 .main{
-	background-color: blue;
+	width: 100%;
+	background-color: #ddd;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	box-shadow: solid blue;
+	margin:1%;
+	padding:1%; 
+}
+.left{
+	width: 70%;
+	border: 3px solid red;
+	background-color:#FFFF00;
+}
+.right{
+	width: 30%;
+	border:2px solid #2df;
+	background-color: #FFFFFF;
+	justify-content: center;
+	text-aline: center;
+	box-shadow: 3px 3px solid white;
+	margin: 1%;
+	padding: 1%;
+}
+img{
+width:100%;
+border: solid white;
+}
+h1,
+h2,
+h3,{
+front-size:33px;
+}
+@media only screen and (min-width: 320px) and (max-width: 550px){
+.main{
+diplay: flex;
+flex-wrap: wrap;
+}
+.left{
+width:95%;
+}
+}
+@media only screen and(max-width:1024px);{
+.main{
+display: flex;
+flex-wrap: colomn;
+}
 }
