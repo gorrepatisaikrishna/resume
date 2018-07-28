@@ -1,6 +1,6 @@
 {
 	"details":{
-		"name":"indira",
+		"name":"sai krishna",
 		"image":"download.png",
 		"phone":"7660843867",
 		"email":"gorrepati@gmail.com"
@@ -18,10 +18,26 @@
 		},
 	
         {   "course":"SSC",
-   			"college":"vivekanadha vidhayalayam",
+   			"college":"vivekanandha vidhayalayam",
 			"percentage":"90%"
 		}
 	
-]
+],
+	"skills":[
+		{
+			"title":"Programing Languages",
+			"output":[
+				"C","C++","Java","Python"
+			]
+},
+{
+	"title":"Operating Systems",
+	"output":[
+		"Windows","Linux","MAC"
+	]
 }
-	
+],
+	"carrier":{
+		"co":"to be a good son of my parents and writing a career plan begins with self-exploration and in deciding what is most important to you in life. Job satisfaction comes from doing a job that fits your personal interests and your unique skill set"
+}
+}
